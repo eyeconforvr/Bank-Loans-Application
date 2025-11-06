@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{44FFE0B7-942E-4E71-9DA8-E7DA21889816}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LoanProject/Program.cs">
+    <Files>
+      <File FileName="LoanProject/Program.cs" Line="13" Column="10" />
+      <File FileName="LoanProject/LoanConstant.cs" Line="12" Column="1" />
+      <File FileName="LoanProject/Loan.cs" Line="60" Column="1" />
+      <File FileName="LoanProject/BusinessLoan.cs" Line="17" Column="2" />
+      <File FileName="LoanProject/PersonalLoan.cs" Line="18" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LoanProject" expanded="True">
+            <Node name="LoanProject" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.LoanProject PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

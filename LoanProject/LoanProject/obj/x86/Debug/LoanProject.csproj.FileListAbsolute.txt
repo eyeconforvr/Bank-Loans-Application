@@ -1,0 +1,6 @@
+/home/jak/Projects/LoanProject/LoanProject/bin/Debug/LoanProject.exe
+/home/jak/Projects/LoanProject/LoanProject/bin/Debug/LoanProject.pdb
+/home/jak/Projects/LoanProject/LoanProject/obj/x86/Debug/LoanProject.csproj.AssemblyReference.cache
+/home/jak/Projects/LoanProject/LoanProject/obj/x86/Debug/LoanProject.csproj.CoreCompileInputs.cache
+/home/jak/Projects/LoanProject/LoanProject/obj/x86/Debug/LoanProject.exe
+/home/jak/Projects/LoanProject/LoanProject/obj/x86/Debug/LoanProject.pdb
